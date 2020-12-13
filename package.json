@@ -1,0 +1,9 @@
+{
+  "name": "viva_fnq",
+  "version": "1.0.0",
+  "description": "a project for viva fnq to learn fe",
+  "main": "index.js",
+  "repository": "git@github.com:BubblyFace/viva_fnq.git",
+  "author": "BubblyFace <751835145@qq.com>",
+  "license": "MIT"
+}

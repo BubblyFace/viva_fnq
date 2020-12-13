@@ -75,7 +75,7 @@ _仓库使用方式 [Documentation](https://www.yuque.com/chandbing/sbdtvl/vdx9n
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@BubblyFace](https://github.com/BubblyFace) - viva_fnq
+[@BubblyFace](https://github.com/BubblyFace) - viva_fnq
 
 Project Link: [https://github.com/BubblyFace/viva_fnq](https://github.com/BubblyFace/viva_fnq)
 

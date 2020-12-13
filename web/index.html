@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="./index.css">
+</head>
+<body>
+    <script>
+        function handleClick() {
+            const name = document.getElementById('name').value;
+            console.log('====>', name);
+            window.sayHello && window.sayHello(name);
+        }
+    </script>
+    <div class="container">
+        <div class="title">Viva NATO</div>
+        <div class="input-container">
+            <label for="name">Please Input Your Name:</label>
+            <input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10">
+            <button onclick="handleClick()">commit</button>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
