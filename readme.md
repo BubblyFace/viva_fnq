@@ -67,8 +67,19 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+```bash
+# For Learn
+# 构建 
+yarn build-fnq
+# 本地启动
+yarn dev-fnq
 
-_仓库使用方式 [Documentation](https://www.yuque.com/chandbing/sbdtvl/vdx9nk)_
+# 项目本身
+#  构建
+yarn build
+# 本地启动
+yarn dev-fnq
+```
 
 
 
