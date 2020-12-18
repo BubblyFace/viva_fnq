@@ -61,7 +61,7 @@
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   yarn install
    ```
 
 
