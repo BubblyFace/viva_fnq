@@ -67,18 +67,18 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-```bash
+```sh
 # For Learn
 # 构建 
 yarn build-fnq
 # 本地启动
-yarn dev-fnq
+yarn start-fnq
 
 # 项目本身
 #  构建
 yarn build
 # 本地启动
-yarn dev-fnq
+yarn start
 ```
 
 

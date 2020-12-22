@@ -1,0 +1,25 @@
+.container {
+    width: 300px;
+    height: 100px;
+    background-color: aqua;
+    border: 6px solid #333333;
+    padding: 3px 5px;
+    margin: 5px 10px;
+    display: block
+}
+
+#title1 {
+    background-color: bisque;
+}
+
+#title2 {
+    background-color: chocolate;
+}
+
+.title {
+    color: cornflowerblue;
+}
+
+button {
+    background-color: darkblue;
+}

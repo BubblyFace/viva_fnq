@@ -1,5 +1,5 @@
 import React from 'react'
-import { Content, Header, Menu } from './components';
+import { Content as W, Header, Menu } from './components';
 import { default as context } from './context';
 
 const { AppContext } = context
@@ -13,7 +13,7 @@ export default (props) => {
     >
         <div className="pag-container">
             <Header></Header>
-            <Content></Content>
+            <W></W>
         </div>
     </AppContext.Provider>
     )
