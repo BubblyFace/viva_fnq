@@ -23,3 +23,15 @@
 button {
     background-color: darkblue;
 }
+
+.header {
+    width: 100%;
+    background-color: aqua;
+    height: 100px;
+}
+
+.footer {
+    width: 100%;
+    background-color: #333333;
+    height: 100px;
+}
