@@ -1,11 +1,9 @@
 .container {
     width: 300px;
-    height: 100px;
-    background-color: aqua;
-    border: 6px solid #333333;
     padding: 3px 5px;
     margin: 5px 10px;
-    display: block
+    display: block;
+    padding-top: 100px;
 }
 
 #title1 {
@@ -28,10 +26,22 @@ button {
     width: 100%;
     background-color: aqua;
     height: 100px;
+    position: fixed;
+    top: 0;
 }
 
 .footer {
     width: 100%;
     background-color: #333333;
     height: 100px;
+    position: fixed;
+    bottom: 0;
+}
+
+.content-box {
+    width: 334px;
+    height: 88px;
+    background-color: #333333;
+    margin-top: 30px;
+    border-radius: 15px;
 }
